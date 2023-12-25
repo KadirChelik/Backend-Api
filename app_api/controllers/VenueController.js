@@ -53,7 +53,7 @@ const listVenues= async function(req,res){
     }
     catch(e){
         createResponse(res,404,{
-            status:"Enlem ve boylam zorunlu ve sıfırdan farklı olmalı",
+            Error,
         });
     }
 

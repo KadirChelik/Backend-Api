@@ -1,4 +1,4 @@
-konuma göre;
+konuma göre mekan;
 
 https://backend-lesson.vercel.app/api/venues/?lat=1&long=1
 
